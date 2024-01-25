@@ -1,0 +1,3 @@
+sum of n natural numbers formuula = ((k(k+1))/2) - 1 
+factorial = (123 % 10) => 3 || (123 // 10) => 12 iterate it or recursive it.
+		
